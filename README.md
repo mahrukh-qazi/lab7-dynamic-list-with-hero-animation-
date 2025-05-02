@@ -1,18 +1,8 @@
-# my_flutter
+ #Lab 7: Dynamic List with Hero Animation
+ 
+ 1) here we are booking an event and getting to see our total price
 
-A new Flutter project.
+ 2) it has a Dynamic ListView with local images, Hero animations between screens
+ and Booking and confirmation functionality
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# lab7-dynamic-list-with-hero-animation-" 
-"# lab7-dynamic-list-with-hero-animation-" 
+ 3) here we have used assets folder for images we can also use network images
