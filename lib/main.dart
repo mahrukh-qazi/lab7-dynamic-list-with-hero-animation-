@@ -30,19 +30,19 @@ final List<Event> events = [
   Event(
     'Bring Your Cake',
     '2025-06-10',
-    'assets/1.jpg', // local image
+    'assets/1.jpg', 
     10.0,
   ),
   Event(
     'Music Fiesta',
     '2025-06-20',
-    'assets/2.jpg', // local image
+    'assets/2.jpg', 
     30.0,
   ),
   Event(
     'tech talk',
     '2025-30-10',
-    'assets/3.jpeg', // local image
+    'assets/3.jpeg', 
     20.0,
   ),
 ];
