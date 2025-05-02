@@ -7,4 +7,9 @@
 
  3) here we have used assets folder for images we can also use network images
 
+ OUTPUT can be seen as: 
  ![image](https://github.com/user-attachments/assets/90d266e8-7bae-4b40-a45f-314b7daa636f)
+
+ ![image](https://github.com/user-attachments/assets/99fda6cd-a92d-4bcd-b4f5-a28ebd3a1584)
+
+ 
